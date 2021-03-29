@@ -12,7 +12,7 @@ public class Welcome{
 private void show()
 {
      for(int i=1;i<=5;i++)
-           System.out.println("Welcome Benzema");
+           System.out.println("Welcome Benz");
 }
 
 }
